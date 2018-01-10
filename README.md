@@ -1,4 +1,4 @@
-Avant de commencer : 
+#Avant de commencer : 
 
 1. Faire les stories dans l’ordre
 2. Faire une story à la fois.
@@ -8,7 +8,7 @@ Avant de commencer :
 
 **********************
 
-Les pré-requis :
-	- Java 8
-	- Maven 3.5.x
+#Les pré-requis :
+	* Java 8
+	* Maven 3.5.x
 	
